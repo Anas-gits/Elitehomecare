@@ -1,2 +1,2 @@
 # Elitehomecare
-# This is the Home service end to end project
+# This is the Home renovation service provider project
